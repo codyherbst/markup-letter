@@ -1,0 +1,1 @@
+This is a letter made using the MDN markup assessment.
